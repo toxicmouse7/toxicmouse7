@@ -18,3 +18,27 @@
 
 ### :man_technologist: About Me :
 
+- :telescope: I'm a student of Chelyabinsk State University. My specialty at the university is computer security.
+
+- :zap: In my free time, I write code for own projets.
+
+- :mailbox: How to reach me: [![VK Badge](https://img.shields.io/badge/VK-blue?logo=VK&logocolor=blue)](https://vk.com/toxicmouse7)
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/python" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/react" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/javascript" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://mohammadijoo.com/image/Assembly-logo.png" title="assembly" alt="assembly" width="40" height="40"/>&nbsp;
+</div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toxicmouse7&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toxicmouse7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
