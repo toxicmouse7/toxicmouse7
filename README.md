@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/1ac0acb80c39f6aa22243ed8559807309b28f70dbb1321fd99ab6f26b0254120/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38632f62312f38632f38636231386337323038326431336562353831636636643435326538653236362e706e67" title="assembly" alt="assembly" width="40" height="40"/>&nbsp;
+  <img src="https://mohammadijoo.com/image/Assembly-logo.png" title="assembly" alt="assembly" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
