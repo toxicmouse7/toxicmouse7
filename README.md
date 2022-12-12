@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://i.ibb.co/nL5XRv3/Assembly-logo.png" title="Assembly" alt="Assembly" width="40" height="40">
+  <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" title="Assembly" alt="Assembly" width="40" height="40">
 </div>
 
 ### :fire: My Stats :
