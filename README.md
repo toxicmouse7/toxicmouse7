@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I'm a student of Chelyabinsk State University. My specialty at the university is computer security.
+- :telescope: I'm a student of Chelyabinsk State University. My specialty is computer security.
 
 - :zap: In my free time, I write code for own projets.
 
