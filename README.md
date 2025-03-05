@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I'm a student of Chelyabinsk State University. My specialty is computer security.
+- :telescope: https://github.com/toxicmouse7/TSEHack
 
 - :zap: In my free time, I write code for own projets.
 
