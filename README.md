@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: https://github.com/toxicmouse7/TSEHack
+- :telescope: Information Security Specialist
 
 - :zap: In my free time, I write code for own projets.
 
